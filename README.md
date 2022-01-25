@@ -1,5 +1,5 @@
 # Short Analysis on Impact of COVID-19 Pandemic on Mobility
-A short analysis of mobility impact by COVID-19 pandemic in the context of Brisbane and Singapore.
+A short analysis of mobility impact by COVID-19 pandemic in the context of Brisbane, Melbourne, Singapore and Japan.
 
 The COVID-19 pandemic impacted many aspects of our lives - in particular, how mobile we are.
 Google collects location data, aggregated and anonymised, for the purposes of research. The dataset mainly focuses on how long people stayed at a particular place in comparison to a baseline.
