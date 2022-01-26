@@ -9,3 +9,7 @@ The baseline is the **median value, for the corresponding day of the week, durin
 Data from Google LLC "Google COVID-19 Community Mobility Reports".
 https://www.google.com/covid19/mobility/ 
 Accessed: 25 January 2022.
+
+# Interactive Version
+
+For the interactive version, please see my [Kaggle Notebook](https://www.kaggle.com/alcheng10/how-did-cities-respond-to-covid-19-traffic-wise).
